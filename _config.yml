@@ -1,6 +1,6 @@
 ---
 booktitle: 'Proceedings on "I Can''t Believe It''s Not Better: Failure  Modes in the
-  Age of Foundation Models" at NeurIPS 2022 Workshops'
+  Age of Foundation Models" at NeurIPS 2023 Workshops'
 year: '2023'
 shortname: ICBINB 23
 volume: '239'
@@ -48,7 +48,7 @@ editor:
   family: Yang
 title: Proceedings of Machine Learning Research
 description: |
-  Proceedings on "I Can't Believe It's Not Better: Failure  Modes in the Age of Foundation Models" at NeurIPS 2022 Workshops
+  Proceedings on "I Can't Believe It's Not Better: Failure  Modes in the Age of Foundation Models" at NeurIPS 2023 Workshops
     Held in New Orleans, Louisiana, USA on 16 December 2023
 
   Published as Volume 239 by the Proceedings of Machine Learning Research on 24 April 2023.
@@ -103,7 +103,7 @@ volume_dir: v239
 email: ''
 conference:
   name: 'Proceedings on "I Can''t Believe It''s Not Better: Failure  Modes in the
-    Age of Foundation Models" at NeurIPS 2022 Workshops'
+    Age of Foundation Models" at NeurIPS 2023 Workshops'
   url: https://sites.google.com/view/icbinb-2023/
   location: New Orleans, Louisiana, USA
   dates:
