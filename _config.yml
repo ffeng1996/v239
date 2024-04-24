@@ -17,7 +17,7 @@ month: 0
 cycles: false
 bibtex_editor: Antor\'an, Javier and Blaas, Arno and Buchanan, Kelly and Feng, Fan
   and Fortuin, Vincent and Ghalebikesabi, Sahra and Kriegler, Andreas and Mason, Ian
-  and Rohde, David and Ruiz, Francisco J. R. and Tobias, Uelwer and Xie, Yubin and
+  and Rohde, David and Ruiz, Francisco J. R. and Uelwer, Tobias and Xie, Yubin and
   Yang, Rui
 editor:
 - given: Javier
@@ -64,7 +64,7 @@ description: |
     Ian Mason
     David Rohde
     Francisco J. R. Ruiz
-    Uelwer Tobias
+    Tobias Uelwer
     Yubin Xie
     Rui Yang
 
