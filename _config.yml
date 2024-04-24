@@ -1,0 +1,116 @@
+---
+booktitle: 'Proceedings on "I Can''t Believe It''s Not Better: Failure  Modes in the
+  Age of Foundation Models" at NeurIPS 2022 Workshops'
+year: '2023'
+shortname: ICBINB 23
+volume: '239'
+start: 2023-12-16
+end: 2023-12-16
+published: 2023-04-24
+conference_number: '4'
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: icbinb-2023
+month: 0
+cycles: false
+bibtex_editor: Antor\'an, Javier and Blaas, Arno and Buchanan, Kelly and Feng, Fan
+  and Fortuin, Vincent and Ghalebikesabi, Sahra and Kriegler, Andreas and Mason, Ian
+  and Rohde, David and Ruiz, Francisco J. R. and Tobias, Uelwer and Xie, Yubin and
+  Yang, Rui
+editor:
+- given: Javier
+  family: Antorán
+- given: Arno
+  family: Blaas
+- given: Kelly
+  family: Buchanan
+- given: Fan
+  family: Feng
+- given: Vincent
+  family: Fortuin
+- given: Sahra
+  family: Ghalebikesabi
+- given: Andreas
+  family: Kriegler
+- given: Ian
+  family: Mason
+- given: David
+  family: Rohde
+- given: Francisco J. R.
+  family: Ruiz
+- given: Uelwer
+  family: Tobias
+- given: Yubin
+  family: Xie
+- given: Rui
+  family: Yang
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings on "I Can't Believe It's Not Better: Failure  Modes in the Age of Foundation Models" at NeurIPS 2022 Workshops
+    Held in New Orleans, Louisiana, USA on 16 December 2023
+
+  Published as Volume 239 by the Proceedings of Machine Learning Research on 24 April 2023.
+
+  Volume Edited by:
+    Javier Antorán
+    Arno Blaas
+    Kelly Buchanan
+    Fan Feng
+    Vincent Fortuin
+    Sahra Ghalebikesabi
+    Andreas Kriegler
+    Ian Mason
+    David Rohde
+    Francisco J. R. Ruiz
+    Uelwer Tobias
+    Yubin Xie
+    Rui Yang
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 16 Dec
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v239"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v239
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v239
+email: ''
+conference:
+  name: 'Proceedings on "I Can''t Believe It''s Not Better: Failure  Modes in the
+    Age of Foundation Models" at NeurIPS 2022 Workshops'
+  url: https://sites.google.com/view/icbinb-2023/
+  location: New Orleans, Louisiana, USA
+  dates:
+  - 2023-12-16
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v239/icbinb23.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v239/icbinb23.bib
